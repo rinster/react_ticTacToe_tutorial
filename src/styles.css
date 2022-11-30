@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+button {
+  height: 100px;
+  width: 100px;
+  border-radius: 0px;
+  background-color: #fff;
+  font-size: 25px;
+  vertical-align: bottom;
+}
